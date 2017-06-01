@@ -1,2 +1,39 @@
-.about_box {width: 33.3%; }
-.about_box { float: left; }
+.about_box 
+{
+	width: 33.3%; 
+}
+
+.about_box 
+{ 
+	float: left; 
+}
+
+.top-bar 
+{
+	background-color: #444c5c;
+	line-height:20px;
+	
+}
+
+.top-bar ul
+{
+	background-color: #444c5c;
+	font-size: 25px;
+    font-weight: normal;
+    opacity: 0.75;
+    transition: all .25s ease-in-out;
+}
+
+a {
+	color: #fefefe;
+}
+
+img {
+	max-width: 50%;
+
+}
+
+.row vertical-feature-block 
+{
+	background-color: #E1B16A;
+}
